@@ -1,0 +1,1 @@
+ALTER TABLE `multimedia_picture_info`  ADD `allow_other_to_use` TINYINT(1) NOT NULL  AFTER `term_and_condition`;

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="config"/>
+	<buildpathentry kind="src" path="module/Application/config"/>
+	<buildpathentry kind="src" path="module/Application/src"/>
+	<buildpathentry kind="src" path="module/Application/test/Controller"/>
+	<buildpathentry kind="src" path="module/Application/view/application/index"/>
+	<buildpathentry kind="src" path="module/Application/view/error"/>
+	<buildpathentry kind="src" path="module/Application/view/layout"/>
+	<buildpathentry kind="src" path="module/Authorization/config"/>
+	<buildpathentry kind="src" path="module/Authorization/src"/>
+	<buildpathentry kind="src" path="module/Authorization/view/dashboard/index"/>
+	<buildpathentry kind="src" path="module/Authorization/view/error"/>
+	<buildpathentry kind="src" path="module/Authorization/view/layout"/>
+	<buildpathentry kind="src" path="module/Dashboard/config"/>
+	<buildpathentry kind="src" path="module/Dashboard/src"/>
+	<buildpathentry kind="src" path="module/Dashboard/view/dashboard/admin"/>
+	<buildpathentry kind="src" path="module/Dashboard/view/dashboard/artist"/>
+	<buildpathentry kind="src" path="module/Dashboard/view/error"/>
+	<buildpathentry kind="src" path="module/Multimedia/config"/>
+	<buildpathentry kind="src" path="module/Multimedia/src"/>
+	<buildpathentry kind="src" path="module/Multimedia/view/multimedia/mapping"/>
+	<buildpathentry kind="src" path="module/Multimedia/view/multimedia/music"/>
+	<buildpathentry kind="src" path="module/Multimedia/view/multimedia/picture"/>
+	<buildpathentry kind="src" path="public"/>
+	<buildpathentry kind="src" path="vendor"/>
+	<buildpathentry kind="lib" path="ZendSkeletonApplication-master.zip"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
